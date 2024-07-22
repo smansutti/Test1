@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Letter from Venice!"
-date:   2024-07-21 23:15:57 +0200
+date:   2024-07-22 23:20:57 +0200
 categories: jekyll update
 ---
+
 Illustrissimo et eccellentissimo Signor et Patron mio osservantissimo
 Sabato arrivò qui il Cardinale de Loreno, et lunedì mattina hebbe audientia da questi Clarissimi
 dove publicamente fece una accomodata orazionetta, la somma della quale fu che tro
